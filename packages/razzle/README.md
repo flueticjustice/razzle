@@ -1,4 +1,4 @@
-![repo-banner](https://user-images.githubusercontent.com/4060187/28923990-050a32d4-782e-11e7-9da7-574ce5a8b455.png)
+![repo-banner][razzle]
 
 [![npm version](https://badge.fury.io/js/razzle.svg)](https://badge.fury.io/js/razzle) [![npm](https://img.shields.io/npm/dm/razzle)](https://www.npmjs.com/package/razzle) ![Node CI](https://github.com/jaredpalmer/razzle/workflows/Node%20CI/badge.svg) [![Known Vulnerabilities](https://snyk.io/test/github/jaredpalmer/razzle/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jaredpalmer/razzle?targetFile=package.json) ![Razzle-status](https://david-dm.org/jaredpalmer/razzle.svg?path=packages/razzle) [![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE) [![Discord](https://img.shields.io/discord/769256827007139912?label=%F0%9F%92%AC%20%20join%20us%20on%20discord&style=plastic)](https://discord.com/invite/RevdZTYMzr)
 
@@ -71,3 +71,6 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 ---
 
 MIT License
+
+
+[razzle]: https://user-images.githubusercontent.com/4060187/28923990-050a32d4-782e-11e7-9da7-574ce5a8b455.png
